@@ -47,7 +47,6 @@ navarro@github:~$ ls projects/
 ```
 
 ```text
-📁 hiDucation
 📁 Python Practice
 📁 Console Applications
 📁 Future Ideas
