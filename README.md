@@ -1,85 +1,150 @@
-```text
- _   _                                      
-| \ | | __ ___   ____ _ _ __ _ __ ___       
-|  \| |/ _` \ \ / / _` | '__| '__/ _ \      
-| |\  | (_| |\ V / (_| | |  | | | (_) |     
-|_| \_|\__,_| \_/ \__,_|_|  |_|  \___/      
+# Navarro
 
+### *Building software one project at a time.*
+
+---
+
+# 👤 About Me
+
+```console
+navarro@github:~$ whoami
 ```
 
-# Hi there! 👋
+|Field|Value|
+|---|---|
+|Name|Navarro|
+|Age|16|
+|Country|Mexico 🇲🇽|
+|Education|Mechatronics Student|
+|Focus|Software Development|
+|OS|CachyOS Linux|
+|Editor|VS Code|
+|Language|Python|
 
-```yaml
-name: Gadiel Navarro
-age: 16
-country: Mexico 🇲🇽
-role: Mechatronics Student
-focus: Software Development
+---
+
+# 💻 Development Environment
+
+```console
+navarro@github:~$ fastfetch
 ```
 
-## ~/about_me
-
 ```text
-> Curious developer.
-> Learning by building.
-> Interested in software, automation and technology.
-> Always improving one project at a time.
-```
-
-## ~/currently_learning
-
-```text
-+ Python
-+ Linux (Arch / CachyOS)
-+ Git & GitHub
-+ Computer Science Fundamentals
-+ Software Development
-```
-
-## ~/interests
-
-```text
-[+] Software Engineering
-[+] Automation
-[+] Game Development
-[+] Artificial Intelligence
-[+] Robotics
-[+] Embedded Systems
-```
-
-## ~/current_projects
-
-```text
-• Python practice projects
-• Learning Git
-• Exploring Linux
-```
-
-## ~/philosophy
-
-```text
-while (alive)
-{
-    Learn();
-    Build();
-    Improve();
-}
-```
-
-## ~/goals
-
-```text
-□ Become a great software engineer.
-□ Build useful software.
-□ Master Computer Science fundamentals.
-□ Never stop learning.
+OS         : CachyOS Linux
+Shell      : bash
+Terminal   : kitty
+Editor     : VS Code
+Language   : Python
+Learning   : Computer Science
 ```
 
 ---
 
-> *"Build first. Improve later."*
+# 📂 Projects
 
-<!--
-**Gnn2009/Gnn2009** is a ✨ special ✨ repository because its `README.md`
-appears on your GitHub profile.
--->
+```console
+navarro@github:~$ ls projects/
+```
+
+```text
+📁 hiDucation
+📁 Python Practice
+📁 Console Applications
+📁 Future Ideas
+```
+
+---
+
+# 🌱 Interests
+
+```console
+navarro@github:~$ tree interests/
+```
+
+```text
+Software
+├── Python
+├── Automation
+├── AI
+└── Game Development
+
+Technology
+├── Linux
+├── Robotics
+├── Embedded Systems
+└── Open Source
+```
+
+---
+
+# 📖 Philosophy
+
+```console
+navarro@github:~$ cat philosophy.txt
+```
+
+```text
+I don't chase perfection.
+
+I build.
+I learn.
+I improve.
+
+Then I build again.
+```
+
+---
+
+# 🚀 Current Status
+
+```console
+navarro@github:~$ git status
+```
+
+```text
+On branch main
+
+Changes to be committed:
+
+    new file:    hiDucation
+    modified:    Python
+    modified:    Linux
+    modified:    Computer Science
+    modified:    English
+    modified:    Discipline
+
+Untracked files:
+
+    open_source/
+    future/
+
+Commit message:
+
+    "Keep building."
+```
+
+---
+
+# 🎯 Goals
+
+<details>
+<summary><b>Open</b></summary>
+
+```text
+[ ] Become a Software Engineer
+[ ] Master Computer Science
+[ ] Build software people use
+[ ] Contribute to Open Source
+[ ] Keep learning for life
+```
+
+</details>
+
+---
+
+```console
+navarro@github:~$ echo "Thanks for visiting!"
+Thanks for visiting!
+
+navarro@github:~$ █
+```
