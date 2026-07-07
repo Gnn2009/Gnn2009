@@ -1,149 +1,163 @@
+<div align="center">
+
 # Navarro
 
-### *Building software one project at a time.*
+### Software Engineering Student • Linux Enthusiast • Building one project at a time
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=2500&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+software.;Learning+Computer+Science.;Exploring+Linux.;Always+improving." />
+
+</div>
 
 ---
 
 # 👤 About Me
 
-```console
-navarro@github:~$ whoami
-```
+```yaml
+Name: Navarro
+Age: 16
+Country: Mexico 🇲🇽
 
-|Field|Value|
-|---|---|
-|Name|Navarro|
-|Age|16|
-|Country|Mexico 🇲🇽|
-|Education|Mechatronics Student|
-|Focus|Software Development|
-|OS|CachyOS Linux|
-|Editor|VS Code|
-|Language|Python|
+Education:
+  - Mechatronics Student
+
+Currently Learning:
+  - Python
+  - Linux
+  - Git
+  - Computer Science
+
+Future Focus:
+  - Software Engineering
+  - Backend Development
+  - Automation
+
+Current Project:
+  - hiDucation
+```
 
 ---
 
-# 💻 Development Environment
+# 💭 Philosophy
 
-```console
-navarro@github:~$ fastfetch
-```
+> *"I don't want to know everything."*
+>
+> *I want to keep learning,*
+>
+> *building and improving,*
+>
+> *one project at a time.*
+
+---
+
+# 🎯 Current Mission
 
 ```text
-OS         : CachyOS Linux
-Shell      : bash
-Terminal   : kitty
-Editor     : VS Code
-Language   : Python
-Learning   : Computer Science
+□ Build useful software
+□ Finish hiDucation
+□ Master Linux
+□ Learn Computer Science
+□ Become a Software Engineer
+□ Never stop improving
 ```
 
 ---
 
-# 📂 Projects
+# ⚙️ Tech Stack
 
-```console
-navarro@github:~$ ls projects/
-```
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,linux,git,bash,vscode,github,md" />
+
+</div>
+
+---
+
+# 📦 Featured Projects
 
 ```text
-📁 Python Practice
-📁 Console Applications
-📁 Future Ideas
+📦 hiDucation
+   Educational platform currently in development.
+
+🐍 Python Practice
+   Small projects to improve problem solving.
+
+🐧 Linux Notes
+   Everything I learn while using Linux.
+
+⚙️ Automation
+   Future industrial automation projects.
 ```
 
 ---
 
-# 🌱 Interests
+# 📊 GitHub Statistics
 
-```console
-navarro@github:~$ tree interests/
-```
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gnn2009&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gnn2009&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Gnn2009&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gnn2009&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
 
 ```text
-Software
-├── Python
-├── Automation
-├── AI
-└── Game Development
-
-Technology
-├── Linux
-├── Robotics
-├── Embedded Systems
-└── Open Source
+🐍 Python
+🐧 Linux
+🌐 Git & GitHub
+📖 Computer Science
+⚙️ Backend Development
 ```
 
 ---
 
-# 📖 Philosophy
-
-```console
-navarro@github:~$ cat philosophy.txt
-```
+# 🚀 Long-Term Goals
 
 ```text
-I don't chase perfection.
+□ Become a Software Engineer
 
-I build.
-I learn.
-I improve.
+□ Master Computer Science
 
-Then I build again.
+□ Build software people enjoy using
+
+□ Contribute to Open Source
+
+□ Never stop learning
 ```
 
 ---
 
-# 🚀 Current Status
+<div align="center">
+
+### Thanks for visiting! 👋
 
 ```console
-navarro@github:~$ git status
+navarro@github:~$ echo "See you in the next commit."
+
+See you in the next commit.
 ```
 
-```text
-On branch main
-
-Changes to be committed:
-
-    new file:    hiDucation
-    modified:    Python
-    modified:    Linux
-    modified:    Computer Science
-    modified:    English
-    modified:    Discipline
-
-Untracked files:
-
-    open_source/
-    future/
-
-Commit message:
-
-    "Keep building."
-```
-
----
-
-# 🎯 Goals
-
-<details>
-<summary><b>Open</b></summary>
-
-```text
-[ ] Become a Software Engineer
-[ ] Master Computer Science
-[ ] Build software people use
-[ ] Contribute to Open Source
-[ ] Keep learning for life
-```
-
-</details>
-
----
-
-```console
-navarro@github:~$ echo "Thanks for visiting!"
-Thanks for visiting!
-
-navarro@github:~$ █
-```
+</div>
