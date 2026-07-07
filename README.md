@@ -12,20 +12,20 @@
 
 <blockquote>
   <strong>Name:</strong> Gadiel Navarro <br>
-  <strong>Age:</strong> 16 años <br>
-  <strong>Country:</strong> México 🇲🇽 <br>
+  <strong>Age:</strong> 16 years old <br>
+  <strong>Country:</strong> Mexico 🇲🇽 <br>
   <strong>Occupation:</strong> Mechatronics Student
 </blockquote>
 
 ### 🛠️ Currently Learning
-* 🐍 **Python** — Estructuras de datos y lógica avanzada.
-* 🐧 **Linux** — Administración de sistemas y scripting en Bash.
-* 🌐 **Git & GitHub** — Control de versiones y colaboración masiva.
-* 📖 **Computer Science** — Fundamentos teóricos esenciales.
+* 🐍 **Python** — Data structures and advanced logic.
+* 🐧 **Linux** — Systems administration and Bash scripting.
+* 🌐 **Git & GitHub** — Version control and massive collaboration.
+* 📖 **Computer Science** — Essential theoretical fundamentals.
 
 ### 🎯 Future Focus
 * ⚙️ **Software Engineering** & **Backend Development**
-* 🤖 **Automation** (Sistemas inteligentes y robótica)
+* 🤖 **Automation** (Intelligent systems and robotics)
 
 # 💭 Philosophy
 
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,linux,git,bash,vscode,github,md" />
+<img src="https://skillicons.dev/icons?i=md,python,cs,linux,git,github,bash,vscode" />
 
 </div>
 
